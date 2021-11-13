@@ -107,6 +107,6 @@ public class peremen {
     private String userMail; // Почта пользователя
     private String userPassword; // Пароль пользователя
 
-    private String userBirthday; //День рождения пользователя
+    private String userBirthday; //День рождения пользователя.
 
 }
